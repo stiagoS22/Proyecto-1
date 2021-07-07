@@ -1,9 +1,5 @@
-
-
-
-
-body {
-	background: linear-gradient(to right, #42a5ff, #badeff);
+.background {
+	
 }
 
 .Contenedor {
@@ -254,7 +250,7 @@ h6 {
 	background-color: rgb(66, 132, 194);
 	font-family: arial;
 	font-weight: 700;
-	font-color: white;
+	color: white;
 	border: 2px solid transparent;
 	color: #fff;
 }
