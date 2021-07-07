@@ -1,19 +1,15 @@
-.background {
+.contenedor {
+	width: 850px;
+	height: 500px;
+	background-color: red;
+	margin-top: 80px;
 	
 }
 
-.Contenedor {
-	position: relative;
-	height: 500px;
-	width: 1000px;
-	background-color: lightblue;
-	margin: auto;
-	top: 75px;
-	border-radius: 35px;
-	z-index: 1;
-	display: flex;
-	
-	flex-wrap: wrap;
+
+#Logo {
+	width: 300px;
+	background-color: red;
 }
 
 
