@@ -1,3 +1,3 @@
-.no-transparencia {
-	opacity: 1 !important;
+body {
+    background: linear-gradient(to right, #42a5ff, #badeff);
 }
