@@ -7434,6 +7434,10 @@ textarea.form-control-lg {
   background-color: transparent !important;
 }
 
+.bg-wtf {
+  background-color: #f2f2f296;
+}
+
 .bg-gradient {
   background-image: var(--bs-gradient) !important;
 }
