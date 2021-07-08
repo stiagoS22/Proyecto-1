@@ -7394,6 +7394,10 @@ textarea.form-control-lg {
   background-color: #0d6efd !important;
 }
 
+.bg-primary-g {
+  background: linear-gradient(to top,#0d6efd,#3f8cff);
+}
+
 .bg-secondary {
   background-color: #6c757d !important;
 }
