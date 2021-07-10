@@ -603,6 +603,22 @@ progress {
   margin-left: auto;
 }
 
+.container-ss {
+  width: 400px;
+  padding-right: var(--bs-gutter-x, 0.75rem);
+  padding-left: var(--bs-gutter-x, 0.75rem);
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.container-ssl {
+  width: 440px;
+  padding-right: var(--bs-gutter-x, 0.75rem);
+  padding-left: var(--bs-gutter-x, 0.75rem);
+  margin-right: auto;
+  margin-left: auto;
+}
+
 @media (min-width: 576px) {
   .container-sm, .container {
     max-width: 540px;
@@ -6943,6 +6959,10 @@ textarea.form-control-lg {
   margin-top: 3rem !important;
 }
 
+.mt-13 {
+  margin-top: 13rem !important;
+}
+
 .mt-auto {
   margin-top: auto !important;
 }
@@ -7492,6 +7512,15 @@ textarea.form-control-lg {
   border-radius: 0.3rem !important;
 }
 
+.rounded-4 {
+  border-radius: 2rem !important;
+}
+
+.rounded-topt {
+  border-top-left-radius: 2rem !important;
+  border-top-right-radius: 2rem !important;
+}
+
 .rounded-circle {
   border-radius: 50% !important;
 }
@@ -7510,6 +7539,11 @@ textarea.form-control-lg {
   border-bottom-right-radius: 0.25rem !important;
 }
 
+.rounded-endt {
+  border-top-right-radius: 2rem !important;
+  border-bottom-right-radius: 2rem !important;
+}
+
 .rounded-bottom {
   border-bottom-right-radius: 0.25rem !important;
   border-bottom-left-radius: 0.25rem !important;
@@ -7518,6 +7552,11 @@ textarea.form-control-lg {
 .rounded-start {
   border-bottom-left-radius: 0.25rem !important;
   border-top-left-radius: 0.25rem !important;
+}
+
+.rounded-startt {
+  border-bottom-left-radius: 2rem !important;
+  border-top-left-radius: 2rem !important;
 }
 
 .visible {
